@@ -1,0 +1,25 @@
+{
+  "customers": [
+    {
+      "username": "durkie",
+      "password": "123",
+      "customerID": 0,
+      "statusActive": false,
+      "purchasedCourses": []
+    },
+    {
+      "username": "Jake",
+      "password": "Brown",
+      "customerID": 2,
+      "statusActive": false,
+      "purchasedCourses": []
+    },
+    {
+      "username": "Hello",
+      "password": "There",
+      "customerID": 3,
+      "statusActive": false,
+      "purchasedCourses": []
+    }
+  ]
+}
